@@ -1,0 +1,42 @@
+/*
+Theme Name: Git theme
+Description: Parent theme for multiple sites
+Version: 1.0.0
+Author: James Whitby
+*/
+
+/* Basic CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 1rem 0;
+}
+
+main {
+    padding: 2rem 0;
+}
+
+footer {
+    background: #f4f4f4;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
