@@ -10,7 +10,7 @@
 
 <header>
     <div class="container">
-        <h1><a href="<?php echo home_url(); ?>"><?php bloginfo('name'); ?></a></h1>
+        <h1>Git Theme - By James Whitby</h1>
         <nav>
             <?php
             wp_nav_menu(array(
