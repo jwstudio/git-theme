@@ -10,7 +10,7 @@
 
 <header>
     <div class="container">
-        <h1>GIT Theme - By James Whitby</h1>
+        <h1>GIT Theme - By James Whitby!</h1>
         <nav>
             <?php
             wp_nav_menu(array(
